@@ -1,0 +1,7 @@
+{
+  "name": "AppProva",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
